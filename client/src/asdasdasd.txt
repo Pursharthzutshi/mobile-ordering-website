@@ -1,0 +1,9 @@
+{
+    "image":"https://imgur.com/6qO42QQ",
+    "name":"Apple iPhone",
+    "price":"70000",
+    "type":"",
+    "processor":"ma1",
+    "memory":"64GB",
+    "OS":"ios"
+}

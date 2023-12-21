@@ -1,0 +1,93 @@
+[
+    {
+    "image":"https://imgur.com/1Lh7NkY",
+    "name":"Redmi",
+    "price":"10000",
+    "type":"",
+    "processor":"Snapdragon 8 Gen",
+    "memory":"128GB",
+    "OS":"android"
+},
+{
+    "image":"https://imgur.com/p5n1Qm2",
+    "name":"One Plus",
+    "price":"22000",
+    "type":"",
+    "processor":"Dimensity 9000",
+    "memory":"128GB",
+    "OS":"android"
+},
+
+{
+    "image":"https://imgur.com/Fwoz4zA",
+    "name":"Redmi",
+    "price":"8000",
+    "type":"",
+    "processor":"Snapdragon 8 Gen",
+    "memory":"128GB",
+    "OS":"android"
+},
+
+{
+    "image":"https://imgur.com/Zy1ccP8",
+    "name":"Vivo",
+    "price":"15000",
+    "type":"",
+    "processor":"Dimensity 9000",
+    "memory":"256GB",
+    "OS":"android"
+},
+
+
+
+
+
+{
+    "image":"https://imgur.com/yCpDP67.jpg",
+    "name":"Google Pixel",
+    "price":75999,
+    "type":"",
+    "processor":"Google Tensor G3",
+    "memory":"128GB",
+    "OS":"android"
+},
+
+
+{
+    "image":"https://imgur.com/sr3oGRk.jpg",
+    "name":"iPhone",
+    "price":89900,
+    "type":"",
+    "processor":"A16 Bionic chip",
+    "memory":"256GB, 1TB",
+    "OS":"iOS"
+},
+{
+    "image":"https://imgur.com/st5HOHz.jpg",
+    "name":" samsung galaxy s22 ultra 5g",
+    "price":84999,
+    "type":"",
+    "processor":"Snapdragon 8 Gen",
+    "memory":" 512GB",
+    "OS":" android"
+},
+{
+    "image":"https://imgur.com/2L3NX9I",
+    "name":" Oppo Reno 6 5G",
+    "price":30990,
+    "type":"",
+    "processor":"Snapdragon 8 Gen",
+    "memory":"128GB",
+    "OS":" Android"
+},
+{
+    "image":"https://imgur.com/9lIyjD4.jpeg",
+    "name":"Microsoft",
+    "price":10000,
+    "type":"Lumia 535",
+    "processor":"Dimensity 9000",
+    "memory":"64GB",
+    "OS":"Windows"
+}
+
+]
